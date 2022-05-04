@@ -1,9 +1,0 @@
-name: example-environment
-channels:
-  - defaults
-  - anaconda
-dependencies:
-  - numpy
-  - pandas
-  - ipywidgets
- 
